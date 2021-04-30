@@ -8,8 +8,8 @@ We break this into separate steps.
     Step 2: Detect Dogs
     Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
     Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
-    Step 5: Write your Algorithm
-    Step 6: Test Your Algorithm
+    Step 5: Write  Algorithm
+    Step 6: Test  Algorithm
     
 ## Step 0 : Import data
 Download [dog_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) and [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) and unzip the data. 
