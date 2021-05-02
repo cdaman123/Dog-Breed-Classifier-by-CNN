@@ -1,4 +1,4 @@
-# Dog-Breed-Classifier-by-CNN 
+ # Dog-Breed-Classifier-by-CNN 
 Project: Write an Algorithm for a Dog Identification App
 
 We break this into separate steps. 
@@ -13,6 +13,12 @@ We break this into separate steps.
     
 ## Step 0 : Import data
 Download [dog_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) and [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) and unzip the data. 
+```
+wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
+unzip dogImages.zip
+unzip lfw.zip
+```
 
     There are 13233 total human images.
     There are 8351 total dog images.
