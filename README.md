@@ -13,6 +13,9 @@ We break this into separate steps.
     
 ## Step 0 : Import data
 Download [dog_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) and [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) and unzip the data. 
+
+**Use these command to download data**
+
 ```
 wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
